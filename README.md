@@ -6,7 +6,7 @@ It displays hello world
 
 It displays my name
 
-it displays something I like\
+it displays something I like
 
 It displays my new branch
 
